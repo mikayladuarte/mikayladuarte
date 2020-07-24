@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media1.giphy.com/media/ea74cjF0jieXu/giphy.gif)
 
 <!--
 **mikayladuarte/mikayladuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
